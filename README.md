@@ -14,7 +14,7 @@ This is when you describe what are the symptoms that trouble you.<p>
 ![imagem](https://github.com/zepedro0901/Staying-Alive-Project/assets/116742735/58219c03-b624-490d-88ef-08a3523f16c8)
 ![imagem](https://github.com/zepedro0901/Staying-Alive-Project/assets/116742735/75c1a61b-ec57-48b0-ada6-ce312da18b55)
 
-And based on you symptoms you have, the app will suggest related symptoms. <p>
+And based on your symptoms you have, the app will suggest related symptoms. <p>
 ![imagem](https://github.com/zepedro0901/Staying-Alive-Project/assets/116742735/256c1c83-9de7-4103-a3ff-d880955ccdef)
 
 After selecting your symptoms, click "Get Diagnosis" to... well get your suggested diagnosis <p>
